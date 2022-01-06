@@ -1,0 +1,59 @@
+.lsts_wrap {
+	display: grid;
+	grid-template-columns: auto auto;
+	background: #999;
+	padding: 50px 50px;
+}
+
+h2 {
+	color: #f0f0f1 !important;
+	display: inline-block !important;
+}
+
+.left_module {
+	border: 1px solid gray;
+	padding: 50px 0 50px 50px;
+	width: 600px;
+	display: flex;
+	align-items: center;
+}
+
+.right_module {
+	border: 1px solid gray;
+	padding: 50px 0 50px 50px;
+	border-left: 0;
+}
+label {
+	display: block;
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 5px;
+}
+
+input.color-picker {
+	display: block;
+	margin-bottom: 10px;
+}
+input[type='submit'] {
+	padding: 5px 20px;
+	border: 0;
+	margin: 10px 0;
+	padding: 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.right_module > p {
+	color: #fff;
+	font-size: 16px;
+}
+.right_module > p > span {
+	display: inline-block;
+	margin-bottom: 10px;
+	padding-right: 50px;
+}
+.right_module > h2 {
+	margin-bottom: 0;
+}
+.cmb-th > label {
+	color: #000;
+}
