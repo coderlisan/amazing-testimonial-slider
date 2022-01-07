@@ -1,8 +1,8 @@
-﻿=== Lisan Testimonial ===
-Contributors: lisan
-Donate link: https://www.paypal.me/wplisan/
-Author URI: https://learnwithlisan.com
-Plugin URI: https://learnwithlisan.com/lsts-testimonial/
+﻿=== Amazing Testimonial Slider ===
+Contributors: coderbos
+Donate link: https://www.paypal.me/coderlisan/
+Author URI: https://livingpart.com.bd
+Plugin URI: https://livingpart.com.bd/amazing-testimonial-slider/
 Tags: star rating, testimonial form, testimonial slider, testimonials
 Requires at least: 5.6
 Tested up to: 5.8.2
@@ -10,16 +10,16 @@ Stable tag: 1.0.0
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lisan Testimonial is best wordpress plugin to display an amazing slider at your website!
+Amazing Testimonial Slider is best wordpress plugin to display an amazing slider at your website!
 
 == Description ==
-Lisan Testimonial is best wordpress plugin to display an amazing slider at your website!
+Amazing Testimonial Slider is best wordpress plugin to display an amazing slider at your website!
 
-Plugin Documentation: [https://learnwithlisan.com/lsts-testimonial/](https://learnwithlisan.com/lsts-testimonial/)
+Plugin Documentation: [https://learnwithlisan.com/amazing-testimonial-slider/](https://learnwithlisan.com/amazing-testimonial-slider/)
 
-*   [Live Demo](https://learnwithlisan.com/lsts-testimonial/)	
-*   [Need Help?](https://learnwithlisan.com/lsts-testimonial/)		
-*   [About Author](https://learnwithlisan.com/)
+*   [Live Demo](https://livingpart.com.bd/amazing-testimonial-slider/)	
+*   [Need Help?](https://livingpart.com.bd/)		
+*   [About Author](https://livingpart.com.bd/amazing-testimonial-slider/)
 
 == Video Tutorial ==
 https://www.youtube.com/channel/UCLIuq7q_YbXY3jaO0yobzUg
@@ -50,7 +50,7 @@ You can make my day by submitting a positive review on <a href="https://wordpres
 
 
 == Installation ==
-1. Upload `lsts-testimonial` to the `/wp-content/plugins/` directory
+1. Upload `amazing-testimonial-slider` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Copy and paste <strong>if(function_exists('lsts_shortcode')){lsts_testimonial_loop();}</strong> in template code or  <strong>[LSTS]</strong> in the post/page" to display slider.
 

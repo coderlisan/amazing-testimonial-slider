@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Plugin Name: Lisan Testimonial
- * Plugin URI: https://learnwithlisan.com/plugins/the-basics
- * Description: Handle the basics with this plugin.
+ * Plugin Name: Amazing Testimonial Slider
+ * Plugin URI: https://livingpart.com.bd/amazing-testimonial-slider/
+ * Description: Amazing Testimonial Slider Plugin for WordPress
  * Version: 1.0.0
  * Requires at least: 5.2
  * Requires PHP: 7.2
- * Author: wplisan
- * Author URI: https://learnwithlisan.com
+ * Author: coderbos
+ * Author URI: https://livingpart.com.bd
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lsts
